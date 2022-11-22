@@ -5,27 +5,27 @@
       "isDefault": true
     },
     {
-      "id": "sign_in",
+      "id": "page_1",
       "isDefault": false
     },
     {
-      "id": "sign_up",
+      "id": "page_2",
       "isDefault": false
     },
     {
-      "id": "select",
+      "id": "page_3",
       "isDefault": false
     },
     {
-      "id": "Page4",
+      "id": "page_4",
       "isDefault": false
     },
     {
-      "id": "Page5",
+      "id": "page_5",
       "isDefault": false
     },
     {
-      "id": "last",
+      "id": "page_6",
       "isDefault": false
     }
   ],

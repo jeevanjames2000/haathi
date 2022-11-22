@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "select",
-    "slug": "select",
+    "name": "page_3",
+    "slug": "page-3",
     "layouts": [
       {
         "viewMode": false,
@@ -431,7 +431,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "select",
+        "id": "page_3",
         "deleted": false,
         "policies": [],
         "userPermissions": []

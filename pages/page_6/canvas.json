@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "last",
-    "slug": "last",
+    "name": "page_6",
+    "slug": "page-6",
     "layouts": [
       {
         "viewMode": false,
@@ -1105,7 +1105,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "last",
+        "id": "page_6",
         "deleted": false,
         "policies": [],
         "userPermissions": []

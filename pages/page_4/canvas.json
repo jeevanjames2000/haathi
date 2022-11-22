@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page4",
-    "slug": "page4",
+    "name": "page_4",
+    "slug": "page-4",
     "layouts": [
       {
         "viewMode": false,
@@ -2016,15 +2016,8 @@
                     {
                       "boxShadow": "none",
                       "widgetName": "Select1",
-                      "isFilterable": "true",
-                      "dynamicPropertyPathList": [
-                        {
-                          "key": "isFilterable"
-                        },
-                        {
-                          "key": "serverSideFiltering"
-                        }
-                      ],
+                      "isFilterable": true,
+                      "dynamicPropertyPathList": [],
                       "displayName": "Select",
                       "iconSVG": "/static/media/icon.bd99caba5853ad71e4b3d8daffacb3a2.svg",
                       "labelText": "All",
@@ -2036,7 +2029,7 @@
                       "parentRowSpace": 10,
                       "labelWidth": 5,
                       "type": "SELECT_WIDGET",
-                      "serverSideFiltering": "true",
+                      "serverSideFiltering": true,
                       "hideCard": false,
                       "defaultOptionValue": "",
                       "animateLoading": true,
@@ -2111,7 +2104,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Page4",
+        "id": "page_4",
         "deleted": false,
         "policies": [],
         "userPermissions": []
